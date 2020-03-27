@@ -1,0 +1,14 @@
+#+title: March 26, 2020 Totals
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+
+* Map
+
+#+begin_export html
+<iframe style="height: 50em" width="100%" src="./map.html"></iframe>
+#+end_export
+
+* Bar Chart
+
+#+begin_export html
+<iframe style="height: 50em" width="100%" src="./bar_chart.html"></iframe>
+#+end_export
